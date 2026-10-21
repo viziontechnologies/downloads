@@ -1,0 +1,12 @@
+{
+  "app": "tylliq",
+  "version": "1.0.1",
+  "build": 10001,
+  "apk_url": "https://github.com/viziontechnologies/downloads/releases/download/tylliq-v1.0.1/tylliq-1.0.1.apk",
+  "sha256": "0001631e8d590aba105abbd18b5c9b75983ebba4f639bb4e8582c672fd01f8c9",
+  "size_bytes": 87165004,
+  "notes": "Release workflow: cap Gradle memory on the CI runner\n\nThe second release build was killed (exit 143): gradle.properties asks for\nan 8 GB heap and private-repo runners have 7 GB of RAM.\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+  "min_supported_build": 0,
+  "released_at": "2026-10-21T11:03:29Z",
+  "page_url": "https://github.com/viziontechnologies/downloads/releases/tag/tylliq-v1.0.1"
+}
