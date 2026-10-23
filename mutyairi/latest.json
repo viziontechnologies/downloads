@@ -1,0 +1,12 @@
+{
+  "app": "mutyairi",
+  "version": "1.9.0",
+  "build": 12,
+  "apk_url": "https://github.com/viziontechnologies/downloads/releases/download/mutyairi-v1.9.0/mutyairi-1.9.0.apk",
+  "sha256": "e9456b63236a6eb8a454bf442ca7709cbf3ce3c421f610b3725d39b24cdcfa49",
+  "size_bytes": 20786518,
+  "notes": "First public build: 149 questions, 52 road signs, study notes, mock exams and four games.",
+  "min_supported_build": 0,
+  "released_at": "2026-10-23T10:44:58Z",
+  "page_url": "https://github.com/viziontechnologies/downloads/releases/tag/mutyairi-v1.9.0"
+}
